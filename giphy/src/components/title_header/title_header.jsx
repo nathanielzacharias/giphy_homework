@@ -6,6 +6,7 @@ function Title_header() {
         <h1>
             Return a GIF
         </h1>
+        <p>Powered by GIPHY</p>
     </div>
   )
 }
