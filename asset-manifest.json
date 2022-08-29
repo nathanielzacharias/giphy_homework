@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/giphy_homework/static/css/main.ece58a52.css",
+    "main.js": "/giphy_homework/static/js/main.75b2b228.js",
+    "index.html": "/giphy_homework/index.html",
+    "main.ece58a52.css.map": "/giphy_homework/static/css/main.ece58a52.css.map",
+    "main.75b2b228.js.map": "/giphy_homework/static/js/main.75b2b228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ece58a52.css",
+    "static/js/main.75b2b228.js"
+  ]
+}
