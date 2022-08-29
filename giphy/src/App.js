@@ -23,7 +23,7 @@ function App() {
     console.log('returnedData2 :', returnedData)
     setGifURL(returnedData.data.data.images.original.url)
     console.log('gifURL2 :', gifURL)
-}
+  }
 
   return (
     <div className="container">
